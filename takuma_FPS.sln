@@ -1,14 +1,18 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{4F9009B2-AD4A-A83E-AF03-8BDFE4616700}") = "takuma_FPS", "Assembly-CSharp.csproj", "{0E2841F4-6C5D-D473-09CF-F97933A1C57E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{0E2841F4-6C5D-D473-09CF-F97933A1C57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2841F4-6C5D-D473-09CF-F97933A1C57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2841F4-6C5D-D473-09CF-F97933A1C57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2841F4-6C5D-D473-09CF-F97933A1C57E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
